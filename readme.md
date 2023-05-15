@@ -11,10 +11,10 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/EdHuayllasco/handle-path-oz);
+- 👨🏽‍💻 I’m currently working on [Data Science](https://github.com/EdHuayllasco/DataScience);
 - 🌱 I’m currently learning Kotlin and Design Patterns in Js; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/EdHuayllasco/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 👯 I’m looking to collaborate on [Data Visualization](https://github.com/EdHuayllasco/DataScience) 🤝;
+- 🤔 I’m looking for help with Data Visualization 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm a Administration sutend;
 - 📫 How to reach me: edwardhc1997@gmail.com;
@@ -25,7 +25,7 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/EdHuayllasco/handle-path-oz">
+  <a href="https://github.com/EdHuayllasco/">
     <img width="55%" align="right" alt="EdHuayllasco's github stats" src="https://github-readme-stats.vercel.app/api?username=EdHuayllasco&show_icons=true&hide_border=true" />
   </a>
 
